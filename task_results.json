@@ -1,0 +1,16 @@
+{
+    "more_than_two_items": [
+        "Petrov",
+        "Sidorov",
+        "Smirnov",
+        "Vasiliev",
+        "Nikolaev",
+        "Romanova",
+        "Jarahen"
+    ],
+    "weight_categories": {
+        "less_than_5kg": 2,
+        "from_5_to_25kg": 6,
+        "more_than_25kg": 2
+    }
+}

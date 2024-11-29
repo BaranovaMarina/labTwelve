@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Ivanov",
+        "items": 1,
+        "weight": 4.5
+    },
+    {
+        "name": "Petrov",
+        "items": 3,
+        "weight": 7.2
+    },
+    {
+        "name": "Sidorov",
+        "items": 5,
+        "weight": 15.8
+    },
+    {
+        "name": "Kuznetsova",
+        "items": 2,
+        "weight": 12.0
+    },
+    {
+        "name": "Smirnov",
+        "items": 4,
+        "weight": 28.5
+    },
+    {
+        "name": "Popov",
+        "items": 1,
+        "weight": 3.0
+    },
+    {
+        "name": "Vasiliev",
+        "items": 6,
+        "weight": 45.3
+    },
+    {
+        "name": "Nikolaev",
+        "items": 3,
+        "weight": 22.0
+    },
+    {
+        "name": "Romanova",
+        "items": 4,
+        "weight": 5.5
+    },
+    {
+        "name": "Jarahen",
+        "items": 5,
+        "weight": 12.0
+    }
+]
